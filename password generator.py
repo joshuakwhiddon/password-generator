@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  8 12:39:20 2020
 
-@author: whidd
-"""
 #packages
 import random
 #Files
