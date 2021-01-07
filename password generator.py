@@ -5,7 +5,6 @@ file = open('password.txt', 'a')
 global number, CODE, answer, options, website, username
 def first():
   global number, CODE , answer, options, website, username
-  print('hi')
   website = input('enter name of website for password:')
   username = input('enter your username:')
   number = input('How long do you want you password:')
